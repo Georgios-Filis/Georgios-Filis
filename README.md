@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Georgios-Filis.
+- 👋 Hi, my name is Giorgos Filis.
 - 👀 I’m interested in Bioinformatics and Data Analysis.
 - 🌱 I have a Bachelor's degree in Biology.
 - 🌱 I have an MSc in "Data Science & Information Technologies" with the specialization of "Bioinformatics – Biomedical Data Science".
