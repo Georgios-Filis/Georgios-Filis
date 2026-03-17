@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Georgios-Filis.
 - 👀 I’m interested in Bioinformatics and Data Analysis.
-- 🌱 I have a Bachelor's degree in Biology and an MSc in "Data Science & Information Technologies" with the specialization of "Bioinformatics – Biomedical Data Science".
-- I am also an undergraduate student in Computer Science.
+- 🌱 I have a Bachelor's degree in Biology.
+- 🌱 I have an MSc in "Data Science & Information Technologies" with the specialization of "Bioinformatics – Biomedical Data Science".
+- 🌱 I am also an undergraduate student in Computer Science.
 - 💞️ I’m looking to collaborate on any project revolving around Bioinformatics or in more general Data Analysis.
 - 📫 How to reach me.
 
